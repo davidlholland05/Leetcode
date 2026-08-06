@@ -9,10 +9,7 @@ class Solution:
         seen = set()
         curr = head
 
-        if head == None:
-            return False
-
-        while curr.next != None:
+        while curr:
             if curr in seen:
                 return True
             seen.add(curr)
