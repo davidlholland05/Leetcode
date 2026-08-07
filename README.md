@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/davidlholland05/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/davidlholland05/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/davidlholland05/Leetcode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/davidlholland05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/davidlholland05/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/davidlholland05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/davidlholland05/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/davidlholland05/Leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/davidlholland05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
