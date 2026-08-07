@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/davidlholland05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/davidlholland05/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/davidlholland05/Leetcode/tree/master/0704-binary-search) |
+| [1046-last-stone-weight](https://github.com/davidlholland05/Leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/davidlholland05/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/davidlholland05/Leetcode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
