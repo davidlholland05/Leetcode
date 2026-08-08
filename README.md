@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/davidlholland05/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/davidlholland05/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/davidlholland05/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/davidlholland05/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/davidlholland05/Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/davidlholland05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/davidlholland05/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/davidlholland05/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/davidlholland05/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/davidlholland05/Leetcode/tree/master/0242-valid-anagram) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/davidlholland05/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/davidlholland05/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/davidlholland05/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/davidlholland05/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Binary Search
