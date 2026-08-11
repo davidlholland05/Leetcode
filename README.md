@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/davidlholland05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/davidlholland05/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/davidlholland05/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/davidlholland05/Leetcode/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/davidlholland05/Leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -116,8 +117,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/davidlholland05/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/davidlholland05/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/davidlholland05/Leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/davidlholland05/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
